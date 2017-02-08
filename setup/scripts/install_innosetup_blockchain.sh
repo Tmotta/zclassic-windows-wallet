@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Package Inno Setup..."
+echo "Package Inno Setup Blockchain..."
 
 . lib/utils.sh
 cd ..

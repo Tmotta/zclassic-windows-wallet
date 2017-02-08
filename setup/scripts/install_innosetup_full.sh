@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Package Inno Setup..."
+echo "Package Inno Setup ZClassic Full..."
 
 . lib/utils.sh
 cd ..
