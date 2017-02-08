@@ -4,7 +4,7 @@ ZClassic Windows native GUI client.
 
 Features:
 - Annonymous and public account transfers support (zaddr, taddr)
-- Anonymous messanger (zmsg)
+- Anonymous blockchain messanger ([zmsg](https://github.com/whyrusleeping/zmsg))
 - Native Windows ZClassic 1.0.5 (Full node)
 - Can be used as cold wallet address generator
 
