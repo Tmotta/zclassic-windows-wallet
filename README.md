@@ -33,7 +33,7 @@ EnJoY and star github project!
 ## Releases
 
 - 0.0.8
-  - share directory bugfix
+  - Backup wallet fixes
   
 - 0.0.7 
   - Update to latest ZClassic 1.0.5
