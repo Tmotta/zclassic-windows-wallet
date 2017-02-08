@@ -54,6 +54,13 @@ echo
 echo "Changing permissions..."
 chmod -R a+rw "${MSYS_DIR}/msys32"
 
+# Before pre package
+if ! [ -d "${MSYS_DIR}/msys32/share" ]
+then
+	mkdir -p "${MSYS_DIR}/msys32/share"
+	chmod 777 "${MSYS_DIR}/msys32/share"
+fi
+
 # Pre package
 echo
 echo "Pre package" 

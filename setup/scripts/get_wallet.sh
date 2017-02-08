@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Config
-ANT_URL=http://ftp.piotrkosoft.net/pub/mirrors/ftp.apache.org//ant/binaries/apache-ant-1.10.0-bin.zip
+ANT_URL=http://www-eu.apache.org/dist//ant/binaries/apache-ant-1.10.1-bin.zip
 LAUNCH4J_URL=https://freefr.dl.sourceforge.net/project/launch4j/launch4j-3/3.9/launch4j-3.9-win32.exe
 
 . lib/utils.sh
