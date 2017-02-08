@@ -30,6 +30,15 @@ EnJoY and star github project!
 ## Install 
 [Download zclassic-windows-wallet package](https://github.com/fxminer/zclassic-windows-wallet/releases) and install to any directory.
 
+## Releases
+
+- 0.0.8
+  - share directory bugfix
+  
+- 0.0.7 
+  - Update to latest ZClassic 1.0.5
+  - zmsg support
+  
 ## Run
 
 - ZClassic Server (start_zclassic_server.exe)
