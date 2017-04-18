@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Config
-ZCASHD_URL=https://github.com/z-classic/zclassic/releases/download/v1.0.5a/zclassic-Windows-NoGUI-v1.0.5.zip
+ZCASHD_URL=https://github.com/z-classic/zclassic/releases/download/v1.0.8-1/zclassic-v1.0.8-1-macos-windows.zip
 
 . lib/utils.sh
 echo

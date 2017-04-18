@@ -32,6 +32,10 @@ EnJoY and star github project!
 
 ## Releases
 
+- 0.1.0
+  - Update to zclassic 1.0.8-1 version.
+    Resolves DoS security issue caused by certain zk transactions.
+  
 - 0.0.8
   - Backup wallet fixes
   

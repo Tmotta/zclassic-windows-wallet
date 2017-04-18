@@ -12,9 +12,9 @@ verify
 
 # Dist
 DIST_DIR="../../dist/zclassic"
-	
-cp -f zclassic/zclassic*/zcash-cli.exe "${DIST_DIR}/client"
-cp -f zclassic/zclassic*/zcashd.exe "${DIST_DIR}/server"
+
+cp -f zclassic/zcl*/zcl-cli.exe "${DIST_DIR}/client/zcash-cli.exe"
+cp -f zclassic/zcl*/zcld.exe "${DIST_DIR}/server/zcashd.exe"
 
 # Clean
 rm -Rf zcashd

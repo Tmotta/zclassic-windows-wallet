@@ -2,7 +2,7 @@
 
 . lib/utils.sh
 
-echo "Create ZClassic full distribution package..."
+echo "Create ZClassic distribution package..."
 
 run get.sh
 run install.sh
